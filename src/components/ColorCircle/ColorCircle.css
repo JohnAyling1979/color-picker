@@ -1,0 +1,15 @@
+.color-circle-section {
+	position: relative;
+	height: 304px;
+	width: 304px;
+}
+
+.selected {
+	position: absolute;
+    top: -2px;
+    left: 152px;
+    z-index: 22;
+    border: solid 4px black;
+    border-radius: 100%;
+		z-index: 5;
+}
